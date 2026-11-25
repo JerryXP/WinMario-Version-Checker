@@ -1,3 +1,6 @@
 # WinMario-Version-Checker
 Checking the  version to make sure it's correct on Vs. WinMario
 (NOT THE SOURCE CODE.)
+<br>
+<br>
+This is also used to store images
